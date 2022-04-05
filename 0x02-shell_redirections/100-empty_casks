@@ -1,1 +1,2 @@
-VimCrypt~03!.¤=Cю,{ЂIИъпуDАјКxй|KTф8ІћВІQ"њjМagжаYX]КЩ[ар@ХѓПЈ
+#!/bin/bash
+find . -empty -printf "%f\n"
